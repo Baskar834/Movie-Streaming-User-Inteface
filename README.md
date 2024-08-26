@@ -11,6 +11,7 @@
 ## Figma Prototype
  You can explore the detailed wireframe and interactive prototype of the design through the following Figma link: 
  Figma File Link(Can Edit) : https://www.figma.com/design/WbgYBbpewSGmpP1abwHkqM/MOVIE?node-id=0-1&m=dev&t=h8KPepbyVDMN63Cn-1
+ 
  Prototype Link(View) : https://www.figma.com/proto/WbgYBbpewSGmpP1abwHkqM/MOVIE?node-id=0-1&t=h8KPepbyVDMN63Cn-
 ## Prototype Video
   For a better understanding of the user flow and interactions, a video prototype is available. It demonstrates how the interface transitions and responds to user inputs.
